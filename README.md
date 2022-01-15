@@ -5,7 +5,7 @@
 <br>
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=nguyend-nam&show_icons=true&hide_border=true&border_radius=0&icon_color=57cc99&title_color=22577A&bg_color=80ed99&text_color=22577a" height=200px><br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyend-nam&layout=compact&hide_border=true&border_radius=0&icon_color=57cc99&title_color=80ed99&bg_color=22577a&text_color=80ed99" height=175px>	
+	<img src="https://github-readme-stats.vercel.app/api?username=nguyend-nam&show_icons=true&hide_border=true&border_radius=0&icon_color=57cc99&title_color=22577A&bg_color=80ed99&text_color=22577a" height=215px><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyend-nam&layout=compact&hide_border=true&border_radius=0&icon_color=57cc99&title_color=80ed99&bg_color=22577a&text_color=80ed99" height=190px>	
 </div>
 
