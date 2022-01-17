@@ -1,6 +1,6 @@
 <!-- ## 👋 Hello there, welcome to my profile -->
 
-# <div align="center"><img alt="icon" src="https://blush.design/api/download?shareUri=Qi0sYxs0fPehiWMj&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width=180px></div><div align="center">`<`Hello, I'm <a href="https://nguyend-nam.github.io/">Nam Nguyen</a>`/>`</div>
+## <div align="center"><img alt="icon" src="https://blush.design/api/download?shareUri=Qi0sYxs0fPehiWMj&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width=175px></div><div align="center">`<`Hello, I'm <a href="https://nguyend-nam.github.io/">Nam Nguyen</a>`/>`</div>
 
 Nice to meet you, my name is Nam Nguyen. I'm currently living in Ho Chi Minh city of Vietnam and studying Computer Engineering. I have learned OOP, Data structures and algorithms using C++ and Hardware coding using Verilog HDL with NetFPGA. I also love doing UI-UX web coding.	
 
@@ -11,11 +11,5 @@ Nice to meet you, my name is Nam Nguyen. I'm currently living in Ho Chi Minh cit
 
 <details>
 	<summary>My GitHub Stats</summary>
-	<img src="https://github-readme-stats.vercel.app/api?username=nguyend-nam&show_icons=true&hide_border=true&border_radius=0&icon_color=57cc99&title_color=22577A&bg_color=80ed99&text_color=22577a" height=188px>
+	<img src="https://github-readme-stats.vercel.app/api?username=nguyend-nam&show_icons=true&hide_border=true&border_radius=0&icon_color=57cc99&title_color=22577A&bg_color=80ed99&text_color=22577a" height=188px><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyend-nam&layout=compact&langs_count=8&hide_border=true&border_radius=0&icon_color=57cc99&title_color=80ed99&bg_color=22577a&text_color=80ed99" height=163px>	
 </details>
-	
-<details>
-	<summary>Most Used Languages</summary>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyend-nam&layout=compact&hide_border=true&border_radius=0&icon_color=57cc99&title_color=80ed99&bg_color=22577a&text_color=80ed99" height=163px>	
-</details>
-
