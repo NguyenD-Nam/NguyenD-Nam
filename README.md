@@ -1,6 +1,6 @@
 <!-- ## 👋 Hello there, welcome to my profile -->
 
-## <div align="center"><img alt="icon" src="https://blush.design/api/download?shareUri=Qi0sYxs0fPehiWMj&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width=180px></div><div align="center">`<`Hello, I'm <a href="https://nguyend-nam.github.io/">Nam Nguyen</a>`/>`</div>
+# <div align="center"><img alt="icon" src="https://blush.design/api/download?shareUri=Qi0sYxs0fPehiWMj&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width=180px></div><div align="center">`<`Hello, I'm <a href="https://nguyend-nam.github.io/">Nam Nguyen</a>`/>`</div>
 
 Nice to meet you, my name is Nam Nguyen. I'm currently living in Ho Chi Minh city of Vietnam and studying Computer Engineering. I have learned OOP, Data structures and algorithms using C++ and Hardware coding using Verilog HDL with NetFPGA. I also love doing UI-UX web coding.	
 
