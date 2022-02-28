@@ -1,8 +1,10 @@
 <!-- ## 👋 Hello there, welcome to my profile -->
 
-## <div align="center"><img alt="icon" src="https://blush.design/api/download?shareUri=Qi0sYxs0fPehiWMj&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width=165px></div><div align="center">`<`Hello, I'm Nam Nguyen`/>`</div>
+<!-- ## <div align="center"><img alt="icon" src="https://blush.design/api/download?shareUri=Qi0sYxs0fPehiWMj&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width=165px></div><div align="center">`<`Hello, I'm Nam Nguyen`/>`</div> -->
 
-Nice to meet you, my name is Nam Nguyen. I'm currently living in Ho Chi Minh city of Vietnam and studying Computer Engineering. I have learned OOP, Data structures and algorithms using C++ and Hardware coding using Verilog HDL with NetFPGA. I also love doing UI-UX web coding.	
+## <div align="center"><img src="img/banner.gif" width=100%></div>
+
+Nice to meet you, my name is Nam Nguyen. I'm currently living in Ho Chi Minh city of Vietnam and studying Computer Engineering. I have learned OOP, Data structures and algorithms using C++ and Hardware coding using Verilog HDL with NetFPGA. I also love coding UI-UX for webapp.	
 
 <details>
 	<summary>Connect With Me</summary>
