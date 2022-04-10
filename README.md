@@ -1,19 +1,29 @@
 <!-- ## <div align="center"><img alt="icon" src="https://blush.design/api/download?shareUri=Qi0sYxs0fPehiWMj&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width=165px></div><div align="center">Hello, I'm Nam Nguyen<img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/344/external-verified-check-circle-for-approved-valid-content-basic-green-tal-revivo.png" height=23px></div> -->
 
-# <div>Hello, I'm Nam Nguyen<img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/344/external-verified-check-circle-for-approved-valid-content-basic-green-tal-revivo.png" height=22px></div>
+# <div align="center">Hello, I'm Nam Nguyen</div>
+
+<div align="center">
+	<a title="Personal site" href="https://nguyend-nam.github.io/"><img alt="Personal site" height=45px src="img/user-100.png"></a>
+	<a title="GitHub" href="https://github.com/NguyenD-Nam"><img alt="GitHub" height=45px src="img/github-240.png"></a>
+	<a title="LinkedIn" href="https://www.linkedin.com/in/nguyend-nam/"><img alt="LinkedIn" height=45px src="img/linkedin-240.png"></a>
+<!-- 	<a title="CodePen" href="https://codepen.io/nguyend-nam"><img alt="CodePen" height=50px src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/344/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-green-tal-revivo.png"></a> -->
+	<a title="Gmail" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nguyennamnade22@gmail.com"><img alt="Gmail" height=45px src="img/gmail-logo-256.png"></a></div>
+</div>
+<br>
 
 Nice to meet you, my name is Nam Nguyen. I'm living in Ho Chi Minh city and studying Computer Engineering at Ho Chi Minh City University of Technology.
-
-I have learned Object Oriented Programming, Data structures and Algorithms; IoT Application and FPGA at my uni. I also love coding website UI-UX.
+I have learned OOP, Data structures & Algorithms, IoT Application and FPGA at my uni. I also love doing website UI-UX development.
 
 <div>
-	<a title="Personal site" href="https://nguyend-nam.github.io/"><img alt="Personal site" height=50px src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/344/external-single-male-user-profile-picture-layout-for-online-social-media-dashboard-closeupman-green-tal-revivo.png"></a>
-	<a title="GitHub" href="https://github.com/NguyenD-Nam"><img alt="GitHub" height=50px src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/344/external-github-with-cat-logo-an-online-community-for-software-development-logo-green-tal-revivo.png"></a>
-	<a title="LinkedIn" href="https://www.linkedin.com/in/nguyend-nam/"><img alt="LinkedIn" height=50px src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/344/external-linkedin-in-logo-used-for-professional-networking-logo-green-tal-revivo.png"></a>
-	<a title="CodePen" href="https://codepen.io/nguyend-nam"><img alt="CodePen" height=50px src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/344/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-green-tal-revivo.png"></a>
-	<a title="Gmail" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nguyennamnade22@gmail.com"><img alt="Gmail" height=50px src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/344/external-gmail-is-a-free-email-service-developed-by-google-logo-green-tal-revivo.png"></a></div>
+	<img alt="C++" height=50px src="img/c++-240.png">
+	<img alt="C" height=50px src="img/c-240.png">
+	<img alt="HTML" height=50px src="img/html-5-240.png">
+	<img alt="CSS" height=50px src="img/css3-240.png">
+	<img alt="JavaScript" height=50px src="img/javascript-240.png">
+	<img alt="Python" height=50px src="img/python-240.png">
+	<img alt="React" height=50px src="img/react-160.png">
 </div>
-
+<br>
 
 <div>
 	<img src="https://github-readme-stats.vercel.app/api?username=nguyend-nam&show_icons=true&hide_border=true&border_radius=7&icon_color=57cc99&title_color=80ed99&bg_color=22577a&text_color=80ed99" height=183px>
