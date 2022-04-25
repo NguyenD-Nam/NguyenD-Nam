@@ -23,7 +23,7 @@ I have learned OOP, Data structures & Algorithms, IoT Application and FPGA at my
 </div>
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=nguyend-nam&show_icons=true&hide_border=true&border_radius=7&icon_color=57cc99&title_color=80ed99&bg_color=22577a&text_color=80ed99" height=183px>
+	<img src="https://github-readme-stats.vercel.app/api?username=nguyend-nam&show_icons=true&hide_border=true&border_radius=7&icon_color=2EDF84&title_color=2EDF84&bg_color=30,000,444&text_color=2EDF84" height=183px>
 </div>
 
 
