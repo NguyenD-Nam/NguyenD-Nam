@@ -2,7 +2,7 @@
 
 # <div align="center"><img src="https://blush.design/api/download?shareUri=QmhGURqK9&c=Hair_0%7E030067_Skin_0%7Ee7915c_Top_0%7Effa200&w=800&h=800&fm=png" height=100px></div><div align="center">Hello, I'm Nam Nguyen</div>
 
-<div align="center"><b><a title="Personal site" href="https://nguyend-nam.github.io/">Personal site</a></b> &bull; <b><a title="GitHub" href="https://github.com/NguyenD-Nam">GitHub</a></b> &bull; <b><a title="LinkedIn" href="https://www.linkedin.com/in/nguyend-nam/">LinkedIn</a></b> &bull; <b><a title="Gmail" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nguyennamnade22@gmail.com">Gmail</a></b></div>
+<div align="center"><b><a title="Personal site" href="https://ngdnam.netlify.app/">Personal site</a></b> &bull; <b><a title="GitHub" href="https://github.com/NguyenD-Nam">GitHub</a></b> &bull; <b><a title="LinkedIn" href="https://www.linkedin.com/in/nguyend-nam/">LinkedIn</a></b> &bull; <b><a title="Gmail" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nguyennamnade22@gmail.com">Gmail</a></b></div>
 <br>
 
 Nice to meet you, my name is Nam Nguyen. I'm living in Ho Chi Minh city and studying Computer Engineering at Ho Chi Minh City University of Technology.
