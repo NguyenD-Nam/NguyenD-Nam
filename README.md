@@ -1,14 +1,17 @@
 <!-- ## <div align="center"><img alt="icon" src="https://blush.design/api/download?shareUri=Qi0sYxs0fPehiWMj&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width=165px></div><div align="center">Hello, I'm Nam Nguyen<img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/344/external-verified-check-circle-for-approved-valid-content-basic-green-tal-revivo.png" height=23px></div> -->
 
-# <div align="center"><img src="https://blush.design/api/download?shareUri=QmhGURqK9&c=Hair_0%7E030067_Skin_0%7Ee7915c_Top_0%7Effa200&w=800&h=800&fm=png" height=100px></div><div align="center">Hello, I'm Nam Nguyen</div>
+# <div align="center"><img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" height="80px"></div><div align="center">Hello, I'm Nam Nguyen</div>
 
 <div align="center"><b><a title="Personal site" href="https://ngdnam.netlify.app/">Personal site</a></b> &bull; <b><a title="GitHub" href="https://github.com/NguyenD-Nam">GitHub</a></b> &bull; <b><a title="LinkedIn" href="https://www.linkedin.com/in/nguyend-nam/">LinkedIn</a></b> &bull; <b><a title="Gmail" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nguyennamnade22@gmail.com">Gmail</a></b></div>
 <br>
 
-Nice to meet you, my name is Nam Nguyen. I'm living in Ho Chi Minh city and studying Computer Engineering at Ho Chi Minh City University of Technology.
-I have learned OOP, Data structures & Algorithms, IoT Application and FPGA at my uni. I also love doing website UI-UX development.
+<img src="https://cultofthepartyparrot.com/guests/hd/dogeparrot.gif" height="29px"> Nice to meet you and welcome to my profile, my name is Nam Nguyen.
 
-<br>
+<img src="https://cultofthepartyparrot.com/flags/hd/vietnamparrot.gif" height="29px"> I'm living in Ho Chi Minh city and studying Computer Engineering at Ho Chi Minh City University of Technology.
+
+<img src="https://cultofthepartyparrot.com/parrots/deployparrot.gif" height="29px"> I have experienced working in Frontend Web Development position with React.JS framework, JavaScript, CSS and I also learned OOP, Data structures & Algorithms, IoT Application and FPGA at my uni.
+
+<!-- <br>
 
 <img align="left" src="https://blush.design/api/download?shareUri=SDPTP3QfEU&c=Hair_0%7E030067_Skin_0%7Ee7915c_Top_0%7Effa200&w=800&h=800&fm=png" height=275px>
 
@@ -24,7 +27,7 @@ I have learned OOP, Data structures & Algorithms, IoT Application and FPGA at my
 
 <div>
 	<img src="https://github-readme-stats.vercel.app/api?username=nguyend-nam&show_icons=true&hide_border=true&border_radius=7&icon_color=2EDF84&title_color=2EDF84&bg_color=30,000,444&text_color=2EDF84" height=183px>
-</div>
+</div> -->
 
 
 <!-- <div align="center">
