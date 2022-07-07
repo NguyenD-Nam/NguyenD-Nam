@@ -7,20 +7,20 @@
 
 - Nice to meet you, my name is Nam Nguyen. I'm living in Ho Chi Minh city and studying Computer Engineering at Ho Chi Minh City University of Technology
 
-- I'm working in a **Frontend Web Development** position using `React.JS` and `CSS` skills
+- I'm working in a **Frontend Web Development** position using `Next.JS`, `TypeScript` and `CSS` skills
 
 <br>
 
 <img align="left" src="https://blush.design/api/download?shareUri=SDPTP3QfEU&c=Hair_0%7E030067_Skin_0%7Ee7915c_Top_0%7Effa200&w=800&h=800&fm=png" height=275px>
 
 <div>
-	<img alt="C++" height=50px src="img/c++-240.png">
-	<img alt="C" height=50px src="img/c-240.png">
 	<img alt="HTML" height=50px src="img/html-5-240.png">
 	<img alt="CSS" height=50px src="img/css3-240.png">
 	<img alt="JavaScript" height=50px src="img/javascript-240.png">
-	<img alt="Python" height=50px src="img/python-240.png">
+	<img alt="TypeScript" height=50px src="img/typescript-100.png">
 	<img alt="React" height=50px src="img/react-160.png">
+	<img alt="Next.JS" height=50px src="img/next.js-100.png">
+	<img alt="C++" height=50px src="img/c++-240.png">
 </div>
 
 <div>
