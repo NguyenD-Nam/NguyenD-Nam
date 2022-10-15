@@ -23,7 +23,7 @@
 I'm living in Ho Chi Minh city and studying Computer Engineering
 at HCMUT - Ho Chi Minh City University of Technology.
 I'm also working in a Frontend engineer position using ReactJS,
-TypeScript, Syled components, etc.
+TypeScript, Styled components, etc.
 
   ▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
   █                             █         Tech stack I regularly use:
