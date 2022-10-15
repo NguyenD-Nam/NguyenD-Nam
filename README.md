@@ -1,5 +1,5 @@
 <div align="center">
-	<a title="Personal site" href="https://ngdnam.netlify.app/"><code>Personal site</code></a> &bull; <a title="GitHub" href="https://github.com/NguyenD-Nam"><code>GitHub</code></a> &bull; <a title="LinkedIn" href="https://www.linkedin.com/in/nguyend-nam/"><code>LinkedIn</code></a> &bull; <a title="Gmail" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nguyennamnade22@gmail.com"><code>Gmail</code></a>
+	<a title="Personal site" href="https://ngdnam.netlify.app/"><code>Personal site</code></a> &bull; <a title="GitHub" href="https://github.com/nguyend-nam"><code>GitHub</code></a> &bull; <a title="LinkedIn" href="https://www.linkedin.com/in/nguyendinhnam0320/"><code>LinkedIn</code></a> &bull; <a title="Gmail" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nguyennamnade22@gmail.com"><code>Gmail</code></a>
 </div>
 <br/>
 
@@ -7,10 +7,10 @@
 
 Hello, my name is                               ╭╮          ╭╮                             ╭╮                                         
                             ╭╮                  ││          ╭╮╮                            ││                                         
-  ─╮█▄      █    ▄▀▀▀▄    █▄╭╮   ▄▀█            ╭╮          │││        ╭╮╮                 ││                                         
-  ╮╰▀ ▀▄    █  ▄█     █▄ ╭▀ │╰╮▄▀  █       ╭╮ ╭╮││          │││      ╭╮││╰╮                ││                                         
-  ╰─╮   ▀▄  █  █▀▀▀▀▀▀▀█ │╰╮│ │╮   █       ││ ╭─╯│        ╭╮│╰─╮     │││╰─╮                ││                                         
-    │     ▀▄█  █       █ │╰╰╯ ╰╮   █       ││╮│  │      ╭─╯││  │     │││  │                ││                          ╭╮             
+  ─╮█▄      █|   ▄▀▀▀▄    █▄╭╮   ▄▀█|           ╭╮          │││        ╭╮╮                 ││                                         
+  ╮╰▀ ▀▄    █│ ▄█│    █▄ ╭▀││╰╮▄▀  █│      ╭╮ ╭╮││          │││      ╭╮││╰╮                ││                                         
+  ╰─╮   ▀▄  █│ █▀▀▀▀▀▀▀█││╰╮│ │╮   █│      ││ ╭─╯│        ╭╮│╰─╮     │││╰─╮                ││                                         
+    │     ▀▄█│ █│      █││╰╰╯ ╰╮   █│      ││╮│  │      ╭─╯││  │     │││  │                ││                          ╭╮             
     │                    │     │          ╭│╰─╯  ╰╮     ││ ╰╯  │   ╭─╯╰╯  │             ╭╮ ││                        ╭╮╭╮             
     │                   ╭╯     │         ╭─╯ ╰╯   │     │╯     │   │╯     │            ╭───╯│                    ╭───╯╰╯│             
     ╰╮                 ╭╯      │         ││       │    ╭╯      │  ╭╯      ╰╮           ││   ╰╮                   │╯ ╰╯  ╰╮            
@@ -26,14 +26,14 @@ Hello, my name is                               ╭╮          ╭╮          
   TypeScript, Styled components, etc.
 
 
-  ▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
-  █                             █         Tech stack I regularly use:
-  █  I'm a Frontend engineer    █         ╭───────────────────────────────╮
-  █  I love making gorgeous UI  █         │► ReactJS (NextJS & TypeScript)│
-  █  I like watching One Piec│  █         │► Styled components/TailwindCSS│
-  █                      ^^^^   █         │► SWR                          │
-  █                             █         ╰───────────────────────────────╯
-  █▒▒▒▒▒▒▒▒▒Macbook Air▒▒▒▒▒▒▒▒▒█▄
-  ▀█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+  ╭▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀•▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄╮
+  │█                             █│        Tech stack I regularly use:
+  │█  I'm a Frontend engineer    █│        ╭───────────────────────────────╮
+  │█  I love making gorgeous UI  █│        │► ReactJS (NextJS & TypeScript)│
+  │█  I like watching One Piec│  █│        │► Styled components/TailwindCSS│
+  │█                      ^^^^   █│        │► SWR                          │
+  │█                             █│        ╰───────────────────────────────╯
+  ╰██████████MacBook Air███████████▄
+   ▀█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
 ```
