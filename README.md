@@ -5,7 +5,7 @@
 
 ```
 
- HELLO, MY NAME IS                              ╭╮         ╭╮                              ╭╮                                           
+ Hello, my name is                              ╭╮         ╭╮                              ╭╮                                           
                             ╭╮                  ││         ╭╮╮                             ││                                           
   ─╮█▄      █    ▄▀▀▀▄    █▄╭╮   ▄▀█            ╭╮         │││         ╭╮╮                 ││                                           
   ╮╰▀ ▀▄    █  ▄█     █▄ ╭▀ │╰╮▄▀  █       ╭╮ ╭╮││         │││       ╭╮││╰╮                ││                                           
@@ -20,18 +20,18 @@
 
 ```
 
-Nice to meet you, my name is Nam Nguyen.
-I'm living in Ho Chi Minh city and
-studying Computer Engineering at HCMUT -
-Ho Chi Minh City University of Technology.
+I'm living in Ho Chi Minh city and studying Computer Engineering
+at HCMUT - Ho Chi Minh City University of Technology.
+I'm also working in a Frontend engineer position using ReactJS,
+TypeScript, Syled components, etc.
 
   ▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
-  █                             █        Tech stack I regularly use:
-  █  I'm a Frontend engineer    █        ╭───────────────────────────────╮
-  █  I love making gorgeous UI  █        │► ReactJS (NextJS & TypeScript)│
-  █  I like watching One Piece| █        │► Styled components/TailwindCSS│
-  █                             █        │► SWR                          │
-  █                             █        ╰───────────────────────────────╯
+  █                             █         Tech stack I regularly use:
+  █  I'm a Frontend engineer    █         ╭───────────────────────────────╮
+  █  I love making gorgeous UI  █         │► ReactJS (NextJS & TypeScript)│
+  █  I like watching One Piec|  █         │► Styled components/TailwindCSS│
+  █                      ^^^^   █         │► SWR                          │
+  █                             █         ╰───────────────────────────────╯
   █▒▒▒▒▒▒▒▒▒Macbook Air▒▒▒▒▒▒▒▒▒█▄
   ▀████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
